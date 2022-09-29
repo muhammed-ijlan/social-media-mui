@@ -42,7 +42,7 @@ function Navbar() {
             <StyledToolbar>
                 <Pets sx={{ display: { xs: "block", sm: "none" } }} />
                 <Typography sx={{ display: { xs: "none", sm: "block" } }} variant='h6'>
-                    IjlanDev
+                    SocialApp
                 </Typography>
                 <SearchBar>
                     <InputBase placeholder='search...' />
